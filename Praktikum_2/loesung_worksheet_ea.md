@@ -54,6 +54,12 @@ Wählt zufällig zwei Spalten aus und Vertauscht die beiden miteinander.
 
 [Implementierung](https://github.com/rcbaron/GKI_Worksheets/blob/main/Praktikum_2/genetischer_algorithmus/main.py)
 
+<img width="1380" height="1146" alt="image" src="https://github.com/user-attachments/assets/9a26030f-3a84-497d-98f3-dd291187aee2" />
+
+Ausgewertet wurden die Operatoren für das Crossover, Generationen und Populationsgrößen über 100 Durchläufe 
+die die Success Rate - SR (Erfolgrate) und Average Evaluation to Solution - AES (Durchschnittliche Generationen bis zur Lösung) angeben.
+
+
 
 ## EA.03: Anwendungen:
 
@@ -157,4 +163,5 @@ GA hilft, Anlagestrategien oder Portfolios zu optimieren. -> Fitness = hohes Gew
 Software-Fuzzing (AFL, AFL++): 
 Evolutionäre Algorithmen erzeugen neue Testeingaben für Programme, um Fehler zu 
 finden. ->Fitness = wie viele neue Programmpfade ein Testeingang erreicht.
+
 
