@@ -19,7 +19,7 @@
 ### Crossover:
 Schneidet Vektor zweier Elternteile durch und Vertauscht diese
 
-Elternteil1 -> [1, 0, 2, 0, 1, 2], Elternteil2 -> [2, 1, 0, 1, 2, 1], Kind1 -> [1, 0, 2, 1, 2, 1], Kind2 -> [2, 1, 0, 0, 1, 2]
+Elternteil1 -> [1, 0, 2, 0, 1, 2], Elternteil2 -> [2, 1, 0, 1, 2, 1], Kind -> [1, 0, 2, 1, 2, 1]
 
 ### Mutation:
 
@@ -163,5 +163,6 @@ GA hilft, Anlagestrategien oder Portfolios zu optimieren. -> Fitness = hohes Gew
 Software-Fuzzing (AFL, AFL++): 
 Evolutionäre Algorithmen erzeugen neue Testeingaben für Programme, um Fehler zu 
 finden. ->Fitness = wie viele neue Programmpfade ein Testeingang erreicht.
+
 
 
